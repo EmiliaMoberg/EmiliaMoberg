@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EmiliaMoberg
+- 👀 I’m interested in learning more about testing. 
+- 🌱 I’m currently learning git and github. 
